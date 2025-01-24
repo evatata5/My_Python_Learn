@@ -8,6 +8,7 @@ def main():
   print(f"Всего страниц {total_page}")
   print(f"Всего символов {symbol}")
   print("Test!!!!")
+  print("Test from web")
   
 if __name__ == "__main__":
   main()
