@@ -7,6 +7,7 @@ def main():
      symbol += len(str(total_page))
   print(f"Всего страниц {total_page}")
   print(f"Всего символов {symbol}")
+  print("Test")
   
 if __name__ == "__main__":
   main()
